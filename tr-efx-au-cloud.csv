@@ -1,0 +1,8 @@
+name,ring,quadrant,isNew,description
+Terraform,adopt,tools,FALSE,Terraform is defacto config automation for GCP and built-in.  All levels of config for GCP and AWS are built using Terraform
+GCP,adopt,platforms,TRUE,GCP is the strategic cloud
+AWS,hold,platforms,TRUE,GCP is the strategic cloud and we should limit workload on AWS
+Anthos,assess,tools,TRUE,Anthos service mesh will eventually be a service mesh service offering in GCP available
+Istio,hold,tools,TRUE,see Anthos
+Multi-Cloud Envy,hold,techniques,FALSE,It's hard
+Java 8,hold,languages,FALSE,move to Java 11
